@@ -1,3 +1,3 @@
 # Rep-course
 Learning GitHub
-## why-this
+## Heading-Style
